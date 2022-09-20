@@ -1,0 +1,90 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 09/09/2020 04:44
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff2") format("woff2"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-roof:before { content: "\f100"; }
+.flaticon-roof-1:before { content: "\f101"; }
+.flaticon-roof-2:before { content: "\f102"; }
+.flaticon-roof-3:before { content: "\f103"; }
+.flaticon-roof-4:before { content: "\f104"; }
+.flaticon-rooftop:before { content: "\f105"; }
+.flaticon-medal:before { content: "\f106"; }
+.flaticon-wrench:before { content: "\f107"; }
+.flaticon-favorite:before { content: "\f108"; }
+.flaticon-award:before { content: "\f109"; }
+.flaticon-team:before { content: "\f10a"; }
+.flaticon-dashboard:before { content: "\f10b"; }
+.flaticon-crown:before { content: "\f10c"; }
+.flaticon-roof-5:before { content: "\f10d"; }
+.flaticon-joist:before { content: "\f10e"; }
+.flaticon-roof-6:before { content: "\f10f"; }
+.flaticon-support:before { content: "\f110"; }
+.flaticon-cleaning:before { content: "\f111"; }
+.flaticon-certificate:before { content: "\f112"; }
+.flaticon-plumbing:before { content: "\f113"; }
+.flaticon-plumbing-1:before { content: "\f114"; }
+.flaticon-roof-7:before { content: "\f115"; }
+.flaticon-whatsapp:before { content: "\f116"; }
+.flaticon-repair:before { content: "\f117"; }
+.flaticon-security-pin:before { content: "\f118"; }
+    
+    $font-Flaticon-roof: "\f100";
+    $font-Flaticon-roof-1: "\f101";
+    $font-Flaticon-roof-2: "\f102";
+    $font-Flaticon-roof-3: "\f103";
+    $font-Flaticon-roof-4: "\f104";
+    $font-Flaticon-rooftop: "\f105";
+    $font-Flaticon-medal: "\f106";
+    $font-Flaticon-wrench: "\f107";
+    $font-Flaticon-favorite: "\f108";
+    $font-Flaticon-award: "\f109";
+    $font-Flaticon-team: "\f10a";
+    $font-Flaticon-dashboard: "\f10b";
+    $font-Flaticon-crown: "\f10c";
+    $font-Flaticon-roof-5: "\f10d";
+    $font-Flaticon-joist: "\f10e";
+    $font-Flaticon-roof-6: "\f10f";
+    $font-Flaticon-support: "\f110";
+    $font-Flaticon-cleaning: "\f111";
+    $font-Flaticon-certificate: "\f112";
+    $font-Flaticon-plumbing: "\f113";
+    $font-Flaticon-plumbing-1: "\f114";
+    $font-Flaticon-roof-7: "\f115";
+    $font-Flaticon-whatsapp: "\f116";
+    $font-Flaticon-repair: "\f117";
+    $font-Flaticon-security-pin: "\f118";
