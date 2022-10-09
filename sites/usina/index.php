@@ -50,6 +50,18 @@
                     <div class="col-12 pb-3 text-center">
                         <div class="row justify-content-center text-dark" style="margin-top: 100px;">
                             <div class="col-12">
+                                <h3>Usina com os primos - 01/10/2022</h3>
+                            </div>
+                            <?php for ($i = 1; $i <= 99; $i++) { 
+                                $fileName = 'image'.$i.'.jpg';
+
+                                if(file_exists("images/fotos/01-10/$fileName")) { ?>
+                                    <a class="col-md-2 mb-2" href="images/fotos/01-10/<?= $fileName ?>" target="_blank">
+                                        <div style="height: 200px; background-image: url('images/fotos/01-10-min/<?= $fileName ?>'); background-size: cover; background-position: center;"></div>
+                                    </a>
+                                <?php }
+                            } ?>
+                            <div class="col-12">
                                 <h3>Usina com os primos - 20/08/2022</h3>
                             </div>
                             <?php for ($i = 1; $i <= 91; $i++) { 
