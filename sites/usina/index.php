@@ -97,7 +97,7 @@
                                     </a>
                                 <?php }
                             } ?>
-                            <div class="col-12">
+                            <!-- <div class="col-12">
                                 <h3>Domingo - 28/05/2022</h3>
                             </div>
                             <?php for ($i = 0; $i < 9999; $i++) { 
@@ -108,8 +108,8 @@
                                         <div style="height: 200px; background-image: url(images/fotos/28-05-min/<?= $fileName ?>); background-size: cover; background-position: center;"></div>
                                     </a>
                                 <?php }
-                            } ?>
-                            <div class="col-12">
+                            } ?> -->
+                            <!-- <div class="col-12">
                                 <h3>Domingo - 15/05/2022</h3>
                             </div>
                             <?php for ($i = 0; $i < 9999; $i++) { 
@@ -120,8 +120,8 @@
                                         <div style="height: 200px; background-image: url(images/fotos/15-05-min/<?= $fileName ?>); background-size: cover; background-position: center;"></div>
                                     </a>
                                 <?php }
-                            } ?>
-                            <div class="col-12">
+                            } ?> -->
+                            <!-- <div class="col-12">
                                 <h3>Sábado - 14/05/2022</h3>
                             </div>
                             <?php for ($i = 0; $i < 9999; $i++) { 
@@ -132,7 +132,7 @@
                                         <div style="height: 200px; background-image: url(images/fotos/14-05-min/<?= $fileName ?>); background-size: cover; background-position: center;"></div>
                                     </a>
                                 <?php }
-                            } ?>
+                            } ?> -->
                         </div>
                     </div>
                 </div>
