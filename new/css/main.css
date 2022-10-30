@@ -329,7 +329,7 @@ nav.main-menu ul li a:hover {
 
 .menu-close-btn {
     background-color: transparent;
-    background-image: url("https://comeout.netlify.app/demo/videobg/img/cross.png");
+    background-image: url("../img/cross.png");
     background-position: center center;
     background-size: cover;
     border: medium none;
@@ -899,7 +899,7 @@ nav.main-menu ul li a:hover {
 }
 
 .portfolio-container {
-    background-image: url("https://comeout.netlify.app/demo/videobg/img/portfolio/port-bg.jpg");
+    background-image: url("../img/portfolio/port-bg.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1211,15 +1211,15 @@ nav.main-menu ul li a:hover {
 }
 
 .blog-thum-1 {
-    background-image: url(https://comeout.netlify.app/demo/videobg/img/blog/blog-thum-1.jpg)
+    background-image: url(../img/blog/blog-thum-1.jpg)
 }
 
 .blog-thum-2 {
-    background-image: url(https://comeout.netlify.app/demo/videobg/img/blog/blog-thum-2.jpg)
+    background-image: url(../img/blog/blog-thum-2.jpg)
 }
 
 .blog-thum-3 {
-    background-image: url(https://comeout.netlify.app/demo/videobg/img/blog/blog-thum-3.jpg)
+    background-image: url(../img/blog/blog-thum-3.jpg)
 }
 
 .blog-thum {
