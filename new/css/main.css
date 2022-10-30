@@ -1610,7 +1610,6 @@ body.preloader-active {
 }
 
 .preloader-spinner {
-  background-color: #222;
   border-radius: 4px;
   height: 80px;
   left: 50%;
