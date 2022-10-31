@@ -109,7 +109,7 @@ body {
 }
 
 .section-title h2 {
-    background: -webkit-linear-gradient(left, #00f298, #07f7f7);
+    background: -webkit-linear-gradient(left, #3dd8fd, #15a8cb);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     display: inline-block;
@@ -132,8 +132,8 @@ body {
 }
 
 #header-bottom::after {
-    background: -webkit-gradient(linear, left top, right top, from(#17d396), to(#07f7f7));
-    background: linear-gradient(to right, #17d396, #07f7f7);
+    background: -webkit-gradient(linear, left top, right top, from(#3dd8fd), to(#000));
+    background: linear-gradient(to right, #3dd8fd, #000);
     content: "";
     height: 100%;
     left: 0;
@@ -156,8 +156,8 @@ body {
 }
 
 #header-area.fixtopmenu {
-    background: -webkit-gradient(linear, left top, right top, from(#17D396), to(#07F7F7));
-    background: linear-gradient(to right, #17D396, #07F7F7);
+    background: -webkit-gradient(linear, left top, right top, from(#3dd8fd), to(#15a8cb));
+    background: linear-gradient(to right, #3dd8fd, #15a8cb);
     -webkit-box-shadow: 0 3px 5px 1px rgba(0, 0, 0, 0.27);
     box-shadow: 0 3px 5px 1px rgba(0, 0, 0, 0.27);
     padding: 20px 0;
@@ -324,7 +324,7 @@ nav.main-menu ul li a {
 }
 
 nav.main-menu ul li a:hover {
-    color: #17D396;
+    color: #3dd8fd;
 }
 
 .menu-close-btn {
@@ -365,7 +365,7 @@ nav.main-menu ul li a:hover {
 }
 
 .about-thum-area .about-img::after {
-    border: 7px solid #00d7bb;
+    border: 7px solid #3dd8fd;
     content: "";
     height: 100%;
     left: 50px;
@@ -382,10 +382,10 @@ nav.main-menu ul li a:hover {
 }
 
 .contact-btn a {
-    background: -webkit-gradient(linear, left top, right top, from(#17d396), to(#07f7f7));
-    background: linear-gradient(to right, #17d396, #07f7f7);
-    -webkit-box-shadow: 0 0 20px rgba(22, 213, 156, 0.7);
-    box-shadow: 0 0 20px rgba(22, 213, 156, 0.7);
+    background: -webkit-gradient(linear, left top, right top, from(#3dd8fd), to(#15a8cb));
+    background: linear-gradient(to right, #3dd8fd, #15a8cb);
+    -webkit-box-shadow: 0 0 20px rgb(61 216 253 / 70%);
+    box-shadow: 0 0 20px rgb(61 216 253 / 70%);
     color: #fff;
     display: inline-block;
     font-size: 14px;
@@ -399,10 +399,10 @@ nav.main-menu ul li a:hover {
 }
 
 .resume-btn a {
-    background: -webkit-gradient(linear, left top, right top, from(#17d396), to(#07f7f7));
-    background: linear-gradient(to right, #17d396, #07f7f7);
-    -webkit-box-shadow: 0 0 20px rgba(22, 213, 156, 0.7);
-    box-shadow: 0 0 20px rgba(22, 213, 156, 0.7);
+    background: -webkit-gradient(linear, left top, right top, from(#3dd8fd), to(#15a8cb));
+    background: linear-gradient(to right, #3dd8fd, #15a8cb);
+    -webkit-box-shadow: 0 0 20px rgb(61 216 253 / 70%);
+    box-shadow: 0 0 20px rgb(61 216 253 / 70%);
     color: #fff;
     display: inline-block;
     font-size: 14px;
@@ -437,7 +437,7 @@ nav.main-menu ul li a:hover {
 }
 
 .profile-menu li span {
-    color: #00d7bb;
+    color: #3dd8fd;
     font-weight: 700;
     text-transform: uppercase;
 }
@@ -467,9 +467,9 @@ nav.main-menu ul li a:hover {
 }
 
 .interest-item i {
-    border: 1px solid #00d7bb;
+    border: 1px solid #3dd8fd;
     border-radius: 50%;
-    color: #00d7bb;
+    color: #3dd8fd;
     display: table-cell;
     font-size: 44px;
     height: 90px;
@@ -531,9 +531,9 @@ nav.main-menu ul li a:hover {
 }
 
 .educaton-content::before {
-    border: 2px solid #00d7bb;
+    border: 2px solid #3dd8fd;
     border-radius: 50%;
-    color: #00d7bb;
+    color: #3dd8fd;
     content: "\f19d";
     font-family: fontawesome;
     font-size: 25px;
@@ -554,11 +554,11 @@ nav.main-menu ul li a:hover {
 }
 
 .educaton-content .cd-timeline::before {
-    background-color: #00d7bb;
+    background-color: #3dd8fd;
 }
 
 .educaton-content .cd-timeline::after {
-    background-color: #00d7bb;
+    background-color: #3dd8fd;
     border-radius: 50%;
     bottom: 0;
     content: "";
@@ -579,7 +579,7 @@ nav.main-menu ul li a:hover {
 
 .educaton-content .cd-timeline-img {
     background-color: #313741;
-    border: 2px solid #00d7bb;
+    border: 2px solid #3dd8fd;
     -webkit-box-shadow: none;
     box-shadow: none;
     height: 35px;
@@ -590,7 +590,7 @@ nav.main-menu ul li a:hover {
 }
 
 .educaton-content .cd-timeline-img span.dot {
-    background-color: #00d7bb;
+    background-color: #3dd8fd;
     border-radius: 50%;
     display: block;
     height: 10px;
@@ -619,7 +619,7 @@ nav.main-menu ul li a:hover {
 }
 
 .educaton-content .cd-timeline-content h2 {
-    color: #00d7bb;
+    color: #3dd8fd;
     font-size: 27px;
     font-weight: 700;
     margin-bottom: 5px;
@@ -662,9 +662,9 @@ nav.main-menu ul li a:hover {
 }
 
 .experience-content::before {
-    border: 2px solid #00d7bb;
+    border: 2px solid #3dd8fd;
     border-radius: 50%;
-    color: #00d7bb;
+    color: #3dd8fd;
     content: "\f19c";
     font-family: fontawesome;
     font-size: 25px;
@@ -685,11 +685,11 @@ nav.main-menu ul li a:hover {
 }
 
 .experience-content .cd-timeline::before {
-    background-color: #00d7bb;
+    background-color: #3dd8fd;
 }
 
 .experience-content .cd-timeline::after {
-    background-color: #00d7bb;
+    background-color: #3dd8fd;
     border-radius: 50%;
     bottom: 0;
     content: "";
@@ -710,7 +710,7 @@ nav.main-menu ul li a:hover {
 
 .experience-content .cd-timeline-img {
     background-color: #22252c;
-    border: 2px solid #00d7bb;
+    border: 2px solid #3dd8fd;
     -webkit-box-shadow: none;
     box-shadow: none;
     height: 35px;
@@ -721,7 +721,7 @@ nav.main-menu ul li a:hover {
 }
 
 .experience-content .cd-timeline-img span.dot {
-    background-color: #00d7bb;
+    background-color: #3dd8fd;
     border-radius: 50%;
     display: block;
     height: 10px;
@@ -750,7 +750,7 @@ nav.main-menu ul li a:hover {
 }
 
 .experience-content .cd-timeline-content h2 {
-    color: #00d7bb;
+    color: #3dd8fd;
     font-size: 27px;
     font-weight: 700;
     margin-bottom: 5px;
@@ -825,7 +825,7 @@ nav.main-menu ul li a:hover {
 }
 
 .count-bar::after {
-    background-color: #00d7bb;
+    background-color: #3dd8fd;
     border-radius: 50%;
     content: "";
     height: 10px;
@@ -840,7 +840,7 @@ nav.main-menu ul li a:hover {
 }
 
 .skillst5 .count-bar.color-1 {
-    background: #00d7bb;
+    background: #3dd8fd;
 }
 
 .skillst5 .count-bar.color-1 .count {
@@ -876,7 +876,7 @@ nav.main-menu ul li a:hover {
 }
 
 .single-skill-bottom h3 {
-    color: #00d7bb;
+    color: #3dd8fd;
     font-size: 24px;
     font-weight: 700;
     margin: 15px 0;
@@ -926,7 +926,7 @@ nav.main-menu ul li a:hover {
 }
 
 .portfolio-container:after {
-    background: rgba(0, 255, 197, 0.7);
+    background: rgb(61 216 253 / 70%);
     position: absolute;
     content: "";
     width: 100%;
@@ -1001,9 +1001,9 @@ nav.main-menu ul li a:hover {
 }
 
 .port-btn-hvr a {
-    border: 1px solid #02cfb4;
+    border: 1px solid #3dd8fd;
     border-radius: 50%;
-    color: #02cfb4;
+    color: #3dd8fd;
     display: inline-block;
     font-size: 17px;
     height: 40px;
@@ -1018,7 +1018,7 @@ nav.main-menu ul li a:hover {
 
 .port-btn-hvr a:hover {
     color: #f1f1f1;
-    background-color: #02cfb4;
+    background-color: #3dd8fd;
 }
 
 .port-meta {
@@ -1038,7 +1038,7 @@ nav.main-menu ul li a:hover {
 }
 
 .port-meta p {
-    color: #02cfb4;
+    color: #3dd8fd;
     font-weight: 600;
 }
 
@@ -1049,7 +1049,7 @@ nav.main-menu ul li a:hover {
 .portfolio-btn a {
     background-color: #22252c;
     border: 1px solid transparent;
-    color: #02cfb4;
+    color: #3dd8fd;
     display: inline-block;
     font-weight: 600;
     margin: 50px auto auto;
@@ -1087,7 +1087,7 @@ nav.main-menu ul li a:hover {
 }
 
 .single-testimonial h3 {
-    color: #02cfb4;
+    color: #3dd8fd;
     font-weight: 600;
     font-size: 21px;
     margin: 20px 0;
@@ -1128,7 +1128,7 @@ nav.main-menu ul li a:hover {
 }
 
 .testimonail-content .owl-dot {
-    background-color: #02cfb4;
+    background-color: #3dd8fd;
     border-radius: 50%;
     display: inline-block;
     height: 15px;
@@ -1151,7 +1151,7 @@ nav.main-menu ul li a:hover {
 /* ==== Message CSS Start ==== */
 
 #message-area {
-    background-color: #02cfb4;
+    background-color: #3dd8fd;
     padding: 60px 0 70px 0;
 }
 
@@ -1201,7 +1201,7 @@ nav.main-menu ul li a:hover {
 .hire-btn a {
     background-color: #22252c;
     border: 1px solid transparent;
-    color: #02cfb4;
+    color: #3dd8fd;
     display: inline-block;
     float: right;
     font-size: 18px;
@@ -1240,7 +1240,7 @@ nav.main-menu ul li a:hover {
 }
 
 .blog-thum {
-    background-color: #02CFB4;
+    background-color: #3dd8fd;
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1257,7 +1257,7 @@ nav.main-menu ul li a:hover {
 }
 
 .blog-content h4 {
-    color: #02cfb4;
+    color: #3dd8fd;
     font-size: 18px;
     font-weight: 700;
     line-height: 25px;
@@ -1282,7 +1282,7 @@ nav.main-menu ul li a:hover {
 }
 
 .post-meta a:hover {
-    color: #02cfb4;
+    color: #3dd8fd;
 }
 
 .blog-content p {
@@ -1293,8 +1293,8 @@ nav.main-menu ul li a:hover {
 }
 
 .readmore-btn {
-    background: -webkit-gradient(linear, left top, right top, from(#02cfb4), to(#02cfa1));
-    background: linear-gradient(to right, #02cfb4, #02cfa1);
+    background: -webkit-gradient(linear, left top, right top, from(#3dd8fd), to(#02cfa1));
+    background: linear-gradient(to right, #3dd8fd, #02cfa1);
     color: #fff;
     display: inline-block;
     font-size: 12px;
@@ -1320,8 +1320,8 @@ nav.main-menu ul li a:hover {
 }
 
 .loadmore-btn {
-    background: -webkit-gradient(linear, left top, right top, from(#02cfb4), to(#02cfa1));
-    background: linear-gradient(to right, #02cfb4, #02cfa1);
+    background: -webkit-gradient(linear, left top, right top, from(#3dd8fd), to(#02cfa1));
+    background: linear-gradient(to right, #3dd8fd, #02cfa1);
     color: #fff;
     display: inline-block;
     font-weight: 600;
@@ -1380,7 +1380,7 @@ nav.main-menu ul li a:hover {
 
 .contact-form button {
     background-color: transparent;
-    color: #02cfb4;
+    color: #3dd8fd;
     display: block;
     margin: 50px auto auto;
     padding: 13px 50px;
@@ -1388,9 +1388,9 @@ nav.main-menu ul li a:hover {
     -webkit-transition: all 0.3s ease 0s;
     transition: all 0.3s ease 0s;
     position: relative;
-    -o-border-image: linear-gradient(to right, #17D396, #07F7F7);
-    border-image: -webkit-gradient(linear, left top, right top, from(#17D396), to(#07F7F7));
-    border-image: linear-gradient(to right, #17D396, #07F7F7);
+    -o-border-image: linear-gradient(to right, #3dd8fd, #15a8cb);
+    border-image: -webkit-gradient(linear, left top, right top, from(#3dd8fd), to(#15a8cb));
+    border-image: linear-gradient(to right, #3dd8fd, #15a8cb);
     border-image-width: 1px;
     border-image-slice: 1;
 }
@@ -1405,7 +1405,7 @@ nav.main-menu ul li a:hover {
 
 .contact-form textarea:focus,
 .contact-form input:focus {
-    border-bottom-color: #02cfb4;
+    border-bottom-color: #3dd8fd;
     outline: none;
     -webkit-box-shadow: none;
     box-shadow: none;
@@ -1463,19 +1463,19 @@ nav.main-menu ul li a:hover {
 .name-input .name_small span,
 .email-input .email_small span,
 .textarea-input .textarea_small span {
-    color: #02cfb4;
+    color: #3dd8fd;
     font-size: 11px;
     top: -3px;
 }
 
 #contactForm p.help-block {
-    color: #00d7bb;
+    color: #3dd8fd;
     margin-bottom: 0;
 }
 
 #contactForm .alert.alert-danger {
     background-color: #313741;
-    color: #02cfb4;
+    color: #3dd8fd;
     font-weight: 300 !important;
     border: none;
     padding: 10px;
@@ -1524,7 +1524,7 @@ footer#footer-area {
 .footer-icons li a i {
     background-color: #313741;
     border-radius: 50%;
-    color: #02cfb4;
+    color: #3dd8fd;
     display: table-cell;
     font-size: 22px;
     height: 50px;
@@ -1544,12 +1544,12 @@ footer#footer-area {
 }
 
 .footer-icons li a i:hover {
-    background-color: #02cfb4;
+    background-color: #3dd8fd;
     color: #22252c;
 }
 
 .copyright-area {
-    color: #02cfb4;
+    color: #3dd8fd;
 }
 
 #footer-area hr {
@@ -1571,8 +1571,8 @@ div#scroll {
 }
 
 #scroll a {
-    background: -webkit-gradient(linear, left top, left bottom, from(#17D396), to(#07F7F7));
-    background: linear-gradient(#17D396, #07F7F7);
+    background: -webkit-gradient(linear, left top, left bottom, from(#3dd8fd), to(#15a8cb));
+    background: linear-gradient(#3dd8fd, #15a8cb);
     border-radius: 50%;
     color: #fff;
     display: inline-block;
@@ -1583,8 +1583,8 @@ div#scroll {
 }
 
 #scroll a:hover {
-    background: -webkit-gradient(linear, left top, left bottom, from(#07F7F7), to(#17D396));
-    background: linear-gradient(#07F7F7, #17D396);
+    background: -webkit-gradient(linear, left top, left bottom, from(#15a8cb), to(#3dd8fd));
+    background: linear-gradient(#15a8cb, #3dd8fd);
     -webkit-transition: 0.4s;
     transition: 0.4s;
 }
@@ -1653,7 +1653,7 @@ body.preloader-active {
 }
 
 ::-webkit-scrollbar-thumb {
-    background-color: #00d7bb;
+    background-color: #3dd8fd;
     border-radius: 3px;
 }
 
