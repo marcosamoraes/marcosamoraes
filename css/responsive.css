@@ -14,19 +14,10 @@
         font-size: 25px;
     }
     .about-thum-area .about-img {
-        width: 100%;
+        width: 355px;
+        height: 355px;
         display: flex;
         justify-content: center;
-    }
-    .about-thum-area .about-img:after {
-        display: none;
-    }
-    .about-thum-area .about-img img:nth-child(1) {
-        display: none;
-    }
-    .about-thum-area .about-img img:nth-child(2) {
-        display: block;
-        width: auto;
     }
     .resume-btn a {
         margin-left: 0;
