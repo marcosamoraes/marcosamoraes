@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Marcos and I'm a Software Developer Full-Stack! 😃<br><br>🧑🏼‍💻 I have 7 years of experience working as developer and my main stack is PHP and Javascript.<br>⚡ I'm especialized in Laravel and I'm working with React and Nodejs in the last projects.
+Hello, I'm Marcos and I'm a Software Developer Full-Stack! 😃<br><br>🧑🏼‍💻 I have almost 9 years of experience working as developer and my main stack is PHP and Javascript.<br>⚡ I'm especialized in Laravel and I'm working with React and Nodejs in the last projects.
 
 
 ## 🌐 Socials:
